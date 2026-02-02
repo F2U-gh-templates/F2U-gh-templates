@@ -1,4 +1,7 @@
 <div align="center"> 
+
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=F2U-gh-templates&color=98ace4&style=for-the-badge&"></p>
+
   
 # HOW TO USE A TEMPLATE?
 
