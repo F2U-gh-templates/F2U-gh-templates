@@ -2,6 +2,9 @@
 
  <p align="center"><img src="https://komarev.com/ghpvc/?username=F2U-gh-templates&color=98ace4&style=for-the-badge&"></p>
 
+ <p align="center"><a href="https://github.com/F2U-gh-templates?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?&color=98ace4&label=Total%20Stars:&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/F2U-gh-templates" title="If you see 0 refresh the page..."></p></a>
+
+
   
 # HOW TO USE A TEMPLATE?
 
